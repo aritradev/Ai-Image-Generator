@@ -1,9 +1,8 @@
+![Repo Views](https://visitor-badge.laobi.io/badge?page_id=aritradev.ai-image-generator&left_text=Repo%20Views&right_color=%23DE1B89)
+
 # 🎨 AI Image Generator
 
 A responsive web application that generates high-quality images from text prompts in seconds. Built with **React** and powered by the **Hugging Face Inference API** (using the `stabilityai/sd-turbo` model).
-
-![Project Screenshot](<img width="789" height="619" alt="image" src="https://github.com/user-attachments/assets/5ba48aef-d85e-4343-99b6-6b2b31db5fe3" />
-)
 
 ## 🚀 Live Demo
 **[Click Here to View Live Project](https://aiimagegenerator-beryl.vercel.app/)**
