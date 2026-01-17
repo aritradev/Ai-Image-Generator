@@ -1,4 +1,4 @@
-![Repo Views](https://visitor-badge.laobi.io/badge?page_id=aritradev.Ai-Image-Generator&left_text=Repo%20Views&right_color=%23DE1B89)
+![Repo Views](https://komarev.com/ghpvc/?username=aritradev-Ai-Image-Generator&label=Repo+Views&color=DE1B89)
 
 # 🎨 AI Image Generator
 
